@@ -4,7 +4,7 @@
 
 <div>
 
-- 📓 Cursando Ciencia da Computação na UFCAT
+- 📓 Cientista da computação pela UFCAT
 - 🖥️ Gosto de Back-end
 
 </div>
